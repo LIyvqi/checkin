@@ -1,3 +1,6 @@
+#参考别人的Gldos自动签到
+
+
 # Checkin
 
 GitHub Actions 实现 [GLaDOS][glados] 自动签到
