@@ -1,5 +1,6 @@
 # 参考别人的Gldos自动签到
 
+https://zhuanlan.zhihu.com/p/616919265 
 
 # Checkin
 
