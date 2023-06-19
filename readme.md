@@ -1,4 +1,4 @@
-#参考别人的Gldos自动签到
+# 参考别人的Gldos自动签到
 
 
 # Checkin
